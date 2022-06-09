@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Gambita de dama",
+    "gender": "Drama",
+    "image": "//localhost:4000/gambita-de-dama.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Friends",
+    "gender": "Comedia",
+    "image": "//localhost:4000/friends.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Back to the future",
+    "gender": "Comedia",
+    "image": "//localhost:4000/back-to-the-future.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Big",
+    "gender": "Comedia",
+    "image": "//localhost:4000/big.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Game of thrones",
+    "gender": "Drama",
+    "image": "//localhost:4000/thrones.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Goonies",
+    "gender": "Comedia",
+    "image": "//localhost:4000/goonies.jpeg"
+  },
+  {
+    "id": "7",
+    "title": "Stranger things",
+    "gender": "Drama",
+    "image": "//localhost:4000/stranger.jpeg"
+  },
+  {
+    "id": "8",
+    "title": "The labyrinth",
+    "gender": "Drama",
+    "image": "//localhost:4000/labyrinth.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Sharknado",
+    "gender": "Drama",
+    "image": "//localhost:4000/sharknado.jpeg"
+  },
+  {
+    "id": "10",
+    "title": "Ghostbusters",
+    "gender": "Comedia",
+    "image": "//localhost:4000/ghostbusters.jpeg"
+  }
+]
