@@ -24,6 +24,11 @@
   background-color: rgb(10, 10, 10);
   color: #cecece;
 }
+.card:hover {
+  border: 0.1875rem solid #3d0d10;
+  box-shadow: 0 0 10px #e50914, 0 0 10px #e50914, 0 0 10px #e50914,
+    0 0 10px #e50914;
+}
 .card__img {
   width: 100%;
 }

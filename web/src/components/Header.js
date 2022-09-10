@@ -47,7 +47,7 @@ const Header = (props) => {
   return (
     <header className="header">
       <Link to="/">
-        <h1 className="header__title">ADAETFLIX</h1>
+        <h1 className="header__title">FAKETFLIX</h1>
       </Link>
       <nav className="header_nav">
         <ul className="header__menu">

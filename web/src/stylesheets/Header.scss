@@ -1,5 +1,7 @@
 .header {
   background-color: rgb(10, 10, 10);
+  background: #220305;
+  background: radial-gradient(circle, #340205 0%, #1b0102 100%);
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -51,6 +53,7 @@
   padding-top: 10px;
   font-family: 'Bebas Neue';
   font-size: 20px;
+
   @media all and (min-width: 768px) {
     padding: 20px;
   }
@@ -60,5 +63,7 @@
   }
 }
 .header__navLink:hover {
-  color: #bfb8b9;
+  color: #3d0d10;
+  text-shadow: 0 0 10px #e50914, 0 0 10px #e50914, 0 0 10px #e50914,
+    0 0 10px #e50914;
 }
